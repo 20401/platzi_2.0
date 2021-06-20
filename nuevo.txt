@@ -1,0 +1,7 @@
+aqui esta toda la infor 
+creando los git commit 
+recordar que los git se realizan 
+
+user.name "nombre seudonimo"
+
+user .email "su@corr.eo"
