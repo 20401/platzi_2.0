@@ -6,6 +6,3 @@ user.name "nombre seudonimo"
 
 user .email "su@corr.eo"
 
-lo bueno es que este caballero quiso aprender y practicar
- y para todos an deser llamados
-es muy bueno conoser
