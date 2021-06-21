@@ -5,7 +5,7 @@ recordar que los git se realizan
 user.name "nombre seudonimo"
 
 user .email "su@corr.eo"
-estos archivos son utilizados por todos y para todos an deser llamados
-es muy bueno conoser
 
 lo bueno es que este caballero quiso aprender y practicar
+ y para todos an deser llamados
+es muy bueno conoser
