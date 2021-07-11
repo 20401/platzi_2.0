@@ -15,3 +15,4 @@ y el nombre de cada una de las ramas rediseñadas en las
 ahroa se ba a realizar el primer pull para ver como se descargan los archivos desde el repositorio
 pues los archivos subieron bien no se usted abajo como los vea
 >>>>>>> e0632b19ec7b4b29fe6faebabd47e52f113edd62
+ 
