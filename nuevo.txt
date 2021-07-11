@@ -6,7 +6,12 @@ recordar que los git se realizan
 user.name "nombre seudonimo"
 
 user .email "su@corr.eo"
+<<<<<<< HEAD
 
 coprobando las nuevas aficiones de lo que es checkout branch 
 y el nombre de cada una de las ramas rediseñadas en las
  cuales se permite realizar esos ca,bios
+=======
+ahroa se ba a realizar el primer pull para ver como se descargan los archivos desde el repositorio
+pues los archivos subieron bien no se usted abajo como los vea
+>>>>>>> e0632b19ec7b4b29fe6faebabd47e52f113edd62
