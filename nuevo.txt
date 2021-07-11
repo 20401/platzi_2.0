@@ -6,3 +6,4 @@ user.name "nombre seudonimo"
 
 user .email "su@corr.eo"
 ahroa se ba a realizar el primer pull para ver como se descargan los archivos desde el repositorio
+pues los archivos subieron bien no se usted abajo como los vea
