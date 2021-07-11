@@ -1,8 +1,12 @@
 aqui esta toda la infor 
-creando los git commit 
+ya no crearemos los comist aqui cagada
+
 recordar que los git se realizan 
 
 user.name "nombre seudonimo"
 
 user .email "su@corr.eo"
-ahroa se ba a realizar el primer pull para ver como se descargan los archivos desde el repositorio
+
+coprobando las nuevas aficiones de lo que es checkout branch 
+y el nombre de cada una de las ramas rediseñadas en las
+ cuales se permite realizar esos ca,bios
